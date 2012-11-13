@@ -1,1 +1,4 @@
-Nothing so far
+Windows
+git clone https://github.com/pchyola/vimsettings.git ./vimfiles
+git submodule init
+git submodule update
