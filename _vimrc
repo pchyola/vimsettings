@@ -29,6 +29,7 @@ function MyDiff()
 endfunction
 
 "custom settings
+filetype plugin on
 set guifont=consolas:h13:cRUSSIAN
 set number
 set linebreak
